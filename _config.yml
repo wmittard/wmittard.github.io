@@ -1,11 +1,11 @@
 # Site settings
 author: William Mittard
-title: 
+title: My Flatiron School Journey 
 header-img: img/home-bg.png
 email: billymittard@ymail.com
 copyright_name: William Mittard
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From Sales to Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  wmittard
